@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Moj-blog/static/css/main.d783fb1d.chunk.css",
+    "main.js": "/Moj-blog/static/js/main.698c62c5.chunk.js",
+    "main.js.map": "/Moj-blog/static/js/main.698c62c5.chunk.js.map",
+    "runtime-main.js": "/Moj-blog/static/js/runtime-main.0547f4e0.js",
+    "runtime-main.js.map": "/Moj-blog/static/js/runtime-main.0547f4e0.js.map",
+    "static/js/2.b3fd1529.chunk.js": "/Moj-blog/static/js/2.b3fd1529.chunk.js",
+    "static/js/2.b3fd1529.chunk.js.map": "/Moj-blog/static/js/2.b3fd1529.chunk.js.map",
+    "index.html": "/Moj-blog/index.html",
+    "static/css/main.d783fb1d.chunk.css.map": "/Moj-blog/static/css/main.d783fb1d.chunk.css.map",
+    "static/js/2.b3fd1529.chunk.js.LICENSE.txt": "/Moj-blog/static/js/2.b3fd1529.chunk.js.LICENSE.txt",
+    "static/media/Screenshot (125).4f5f7300.png": "/Moj-blog/static/media/Screenshot (125).4f5f7300.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0547f4e0.js",
+    "static/js/2.b3fd1529.chunk.js",
+    "static/css/main.d783fb1d.chunk.css",
+    "static/js/main.698c62c5.chunk.js"
+  ]
+}
